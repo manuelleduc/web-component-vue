@@ -11,3 +11,8 @@ console.log("child loaded");
   text-decoration: line-through;
 }
 </style>
+<style>
+.b {
+  border: 1px solid black;
+}
+</style>
